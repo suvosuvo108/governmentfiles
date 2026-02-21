@@ -1,0 +1,5 @@
+{
+  "name": "PDF Garden",
+  "description": "A client-side PDF to JPG converter with a beautiful garden-themed UI. Features file upload, conversion progress tracking, and bulk downloading.",
+  "requestFramePermissions": []
+}
